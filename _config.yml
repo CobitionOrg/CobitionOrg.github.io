@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CobitionOrg
-email: ""
+email: "Cobition123@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   팀 코비션은 효율적이고 유연한 웹사이트를 제공합니다. 신속한 성능과 사용자 친화적인 디자인으로 고객의 성공을 지원합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
